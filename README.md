@@ -45,9 +45,6 @@ This game is created and maintained by [TheMafiaBot](https://github.com/TheMafia
 - **Medals & Rewards**: Players earn medals and diamonds for victories, which can be used to speed up progress or trade with others.
 - **Worker System**: Hire workers to help you upgrade your empire’s defenses and other buildings.
 
-### Database:
-- Player data is stored in a **SQLite database** or file system (e.g., `player_data.json`), including statistics, achievements, and progression.
-
 ## Installation
 
 1. **Clone the repository**:
