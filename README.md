@@ -51,5 +51,5 @@ This game is created and maintained by [TheMafiaBot](https://github.com/TheMafia
 
    ```bash
 
-   apt update -y && apt upgrade -y && pkg install python -y && apt install git -y && git clone https://github.com/TheMafiaBot/empire-clash-game.git && cd empire-clash-game && python3 - m pip install -r requirements.txt && python game.py
+   apt update -y && apt upgrade -y && pkg install python -y && apt install git -y && git clone https://github.com/TheMafiaBot/empire-clash-game.git && cd empire-clash-game && python3 -m pip install -r requirements.txt && python game.py
    
