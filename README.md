@@ -1,6 +1,6 @@
-# Empire Clash
+# Clash Game
 
-Welcome to **Empire Clash**, a strategic, text-based empire-building game where you manage resources, battle other players, and rise through the ranks to become the ultimate ruler. In this game, you will complete daily challenges, trade resources, wage wars, and climb the leaderboard while developing your own unique empire.
+Welcome to **Clash Game**, a strategic, text-based empire-building game where you manage resources, battle other players, and rise through the ranks to become the ultimate ruler. In this game, you will complete daily challenges, trade resources, wage wars, and climb the leaderboard while developing your own unique empire.
 
 This game is created and maintained by [TheMafiaBot](https://github.com/TheMafiaBot).
 
